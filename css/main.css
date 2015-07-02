@@ -38,6 +38,22 @@ ul.posts {
     font-size: 1.5em;
 }
 
+#sides{
+    margin:0;
+}
+
+left{
+    float:left;
+    width:75%;
+    overflow:hidden;
+}
+
+right{
+    float:left;
+    width:25%;
+    overflow:hidden;
+} 
+
 ul.posts li {
     list-style: none;
 }
