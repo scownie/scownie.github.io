@@ -8,4 +8,4 @@ I’m a postgraduate Computer Science student at the University of Birmingham. I
 
 Before postgraduate study I worked as a public relations consultant for a number of technology brands, from start-ups to blue-chips. For more information about my professional and educational history, please see the C.V. tab.
 
-The bulk of my programming experience is in Java. I'm particularly interested in the intersection of language, technology, and art - visual, aural or otherwise. Outside my university studies I'm working on several NLP-related projects, which I'll be adding to the Projects page soon. 
+The bulk of my programming experience is in Java. I'm particularly interested in the intersection of language, technology, and art - be it visual, aural or otherwise. Outside my university studies I'm working on several NLP-related projects, which I'll be adding to the Projects page soon. 
